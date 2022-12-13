@@ -1,4 +1,4 @@
-# Examen de nivelación de Baufest
+# Examen de nivelación
 ## Consideraciones generales
 - Para resolver los ejercicios en general alcanza con implementar un métodos. De todas maneras, está permitido agregar métodos, clases, interfaces o lo que consideres necesario
 - Para verificar la implementación se pueden ejecutar los test correspondientes a cada ejercicio. Los tests se encuentran en el package correspondiente al ejercicio dentro de src/test/
